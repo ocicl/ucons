@@ -1,0 +1,10 @@
+* ucons
+
+Unique conses.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/marcoheisig/ucons.git   |
+| commit  | 46ac548  |
+| systems | ucons |
+|---------+-------------------------------------------|
+
